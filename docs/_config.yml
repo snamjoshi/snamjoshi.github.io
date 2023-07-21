@@ -7,8 +7,9 @@ github_username: snamjoshi
 linkedin_username: snamjoshi
 discord_username: users/sanjeev_namjoshi
 
-header_pages:
-  - faif.md
-  - research.md
+minima:
+  header_pages:
+    - faif.md
+    - research.md
 
 theme: minima
