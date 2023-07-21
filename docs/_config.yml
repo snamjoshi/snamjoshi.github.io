@@ -1,11 +1,11 @@
-title: "Home"
+title: "snamjoshi.github.io"
+author: Sanjeev Namjoshi
+email: sanjeev.namjoshi@gmail.com
 description: Sanjeev Namjoshi's personal webpage.
 
-social-network-links:
-  email: sanjeev.namjoshi@gmail.com
-  github_username: snamjoshi
-  linkedin: snamjoshi
-  discord: users/sanjeev_namjoshi
+github_username: snamjoshi
+linkedin_username: snamjoshi
+discord_username: users/sanjeev_namjoshi
 
 header_pages:
   - faif.md
