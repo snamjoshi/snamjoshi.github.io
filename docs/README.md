@@ -1,3 +1,1 @@
-# Testing Jekyll theme
-
-Text
+Sanjeev Namjoshi
