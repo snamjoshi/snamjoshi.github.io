@@ -1,1 +1,1 @@
-Fundamentals of Active Inference project
+# Writing
