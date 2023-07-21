@@ -9,5 +9,6 @@ linkedin_username: snamjoshi
 header_pages:
   - faif.md
   - research.md
+  - papers.md
 
 theme: minima
