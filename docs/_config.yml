@@ -1,1 +1,10 @@
+title: Sanjeev Namjoshi
+email: sanjeev.namjoshi@gmail.com
+description: Sanjeev Namjoshi's personal webpage.
+github_username: snamjoshi
+
+header_pages:
+  - faif.md
+  - research.md
+
 theme: minima
