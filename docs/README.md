@@ -1,6 +1,4 @@
----
-title: Sanjeev Namjoshi, Ph.D.
----
+# Sanjeev Namjoshi, Ph.D.
 
 I am a senior machine learning engineer at [KUNGFU.AI](https://www.kungfu.ai/) ([company bio](https://www.kungfu.ai/blog-post/kungfu-ai-welcomes-sanjeev-namjoshi)), an AI services firm based in Austin, Texas (United States) where I have focused on created robust software that applies machine learning to medicine and healthcare. At KUNGFU.AI my most recent research focus has been leading the development of image-based breast cancer risk-detection software using computer vision. This project involved developing a deep learning model from over 30 terrabytes of image data and patient outcome data to provide calibrated risk scores looking ahead 5 years into the future. I am currently in the final month of a 7-month sabbatical where I have focused on writing a [textbook on Active Inference](faif.md), a research area in computational neuroscience.
 
