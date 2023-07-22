@@ -1,1 +1,4 @@
-# Publications
+---
+title: Publications
+---
+

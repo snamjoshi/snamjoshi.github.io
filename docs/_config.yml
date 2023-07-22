@@ -10,5 +10,6 @@ header_pages:
   - faif.md
   - research.md
   - papers.md
+  - bio.md
 
 theme: minima
