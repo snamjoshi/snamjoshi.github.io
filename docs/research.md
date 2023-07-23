@@ -10,9 +10,9 @@ In Winter 2020 I gave two talks at the [Deep Learning Meetup](https://www.meetup
 
 ## Personal research
 
-**Active inference textbook** (Summer 2019-present): My primary research focus is the development of a textbook and other educational resources around active inference. I have worked on this book outside of work but since January 2023 I have been on sabbatical to focus on it exclusively. More detailed information is given on the [textbook](faif.md) page.
+**Active inference textbook** (Summer 2019-present): My primary research focus is the development of a textbook and other educational resources around the field of Active Inference. I have worked on this book outside of work but since January 2023 I have been on sabbatical to focus on it exclusively. More detailed information is given on the [textbook](faif.md) page.
 
-**Animal learning-based AI** (December 2021-present): In collaboration with [Roy Clymer](https://matheta.com/) we are writing a paper to showcase his work on an AI model inspired by animal learning. The model is based on synaptic connections but is entirely different in construction with feed-forward neural networks; superficially the model has some similarities with spiking neural networks. It includes an agent-environment loop and is capable of fairly complex behavioral chaining and learning in continuous time without any explicit calculations of gradients. More information and proof of concept results (using a Roomba) can be found on Roy's website linked above and in [this YouTube video](https://youtu.be/9IE-STHKxew).
+**Animal learning-based AI** (December 2021-present): In collaboration with [Roy Clymer](https://matheta.com/) we are writing a paper to showcase his work on an AI model inspired by animal learning. The model is based on a model of the synapse but is entirely different in construction from feed-forward neural networks and does not learn through backpropogation; superficially the model has some similarities with spiking neural networks. It includes an agent-environment interaction loop and is capable of fairly complex behavioral chaining and learning in continuous time without any explicit calculations of gradients. More information and proof of concept results (using a Roomba) can be found on Roy's website linked above and in [this YouTube video](https://youtu.be/9IE-STHKxew).
 
 **Asynchronous federated learning** (December 2022-present): In collaboration with my co-worker ZZ Si. As part of my work at KUNGFU.AI we had to utilize federated learning in order to prevent the mixture of private patient data stored in different AWS cloud accounts. Federated learning as implemented by tools such as [Flwr](https://flower.dev/) require synchronous learning where the slowest dataset to train becomes the bottleneck for the other datasets. ZZ developed the idea and original implementation of an asychronous federated learning architecture that we worked together into a Python package (not yet public). With our asynchronous federated learning setup it is possible to eliminate issues caused by bottlenecking datasets. 
 
@@ -22,7 +22,7 @@ At KUNGFU.AI I have served as lead on a project to develop breast-cancer risk pr
 
 At Hypergiant I served as lead on a project to develop an agent-based logistics simulator. The simulation was designed such that the user could change the initial conditions of the simulator to produce different outcome data. This data could then be used for forecasting to see how various business metrics would be expected to change as a result of changing the parameters of the simulation. This project served as a test-bed for asking "what-if" questions useful in business analytics.
 
-## Postdoctoral research
+## Postdoctoral research (highlights)
 
 As part of my transition toward industry I worked in [Dr. Wei Zhang's lab](https://school.wakehealth.edu/faculty/z/wei-zhang#View%20Profile) on a computer vision project to detect brain cancer in 3D MRI images. I also contributed some bioinformatics analysis on a paper investigating the oncogene FGFR3-TACC3. 
 
@@ -31,7 +31,7 @@ As part of my transition toward industry I worked in [Dr. Wei Zhang's lab](https
 
 I worked with [Dr. Ken Kishida's lab](https://www.kishidalab.com/) on a number of different projects applying reinforcement learning and Bayesian statistics to analyze human subjects interacting with game theory-inspured takss that investigated social norms, decision-making, and subjective consciousness. Among my major contributions was optimizing a model that could decompose a fast-scan cyclic voltammetry signal recording from patients undergoing deep-brain stimulation to distinguish different neurotransmitter measurements.
 
-## Graduate research
+## Graduate research (highlights)
 
 My graduate research was performed in [Kimberly Raab-Graham's lab](https://raabgrahamlab.com/) where I worked on a mix of molecular biology and bioinformatics. I was primarily focused on functional and network analysis of proteins affected by excitation or inhibition of the protein complex mTORC1 expressed in rat or mouse hippocampal neurons (via mass spectrometry). Many of these proteins controlled by mTORC1 expression are involved in memory process and dysregulated in neurodegenerative diseases. Main paper related to this project:
 
@@ -51,4 +51,4 @@ Other papers from my time in the Raab-Graham Lab
 * Raab-Graham KF, Workman ER, **Namjoshi S**, Niere F. Pushing the threshold: How NMDAR antagonists induce homeostasis through protein synthesis to remedy depression. *Brain Res.* 2016. 1647:94-104. doi: 10.1016/j.brainres.2016.04.020. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27125595/)]
 * Wolfe SA, Workman ER, Heaney CF, Niere F, **Namjoshi S**, Cacheaux LP, Farris SP, Drew MR, Zemelman BV, Harris RA, Raab-Graham KF. FMRP regulates an ethanol-dependent shift in GABABR function and expression with rapid antidepressant properties. *Nat Commun*. 2016. 7:12867. doi: 10.1038/ncomms12867. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27666021/)]
 
-I also worked in Dr. Scott Stevens' Lab where I performed functional analysis of proteins in the spliceosome, the primary protein complex in the cell which carries out RNA processing.
+I also worked in [Dr. Scott Stevens' Lab](https://molecularbiosci.utexas.edu/directory/scott-w-stevens) where I performed functional analysis of proteins in the spliceosome, the primary protein complex in the cell which carries out RNA processing.
