@@ -5,12 +5,12 @@ title: Research and Talks
 ## Talks
 In Winter 2020 I gave two talks at the [Deep Learning Meetup](https://www.meetup.com/austin-deep-learning/) in Austin, TX on the history of AI. The aim of these talks was to weave together a unique historical perspective on AI that integrates developments in philosophy, mathematics, and neuroscience and the various paths toward AI as we think of it today. The recordings of these talks can be found below:
 
-* The History of AI Part I: Before the AI Winter (1822-1980) [Link](https://www.youtube.com/watch?v=wgG5h6RTNmw)
-* The History of AI Part II: Modern Developments in AI and Neuroscience (1980-Present) [Link](https://www.youtube.com/watch?v=kkh42Z9DTLo)
+* The History of AI Part I: Before the AI Winter (1822-1980) [[Link](https://www.youtube.com/watch?v=wgG5h6RTNmw)]
+* The History of AI Part II: Modern Developments in AI and Neuroscience (1980-Present) [[Link](https://www.youtube.com/watch?v=kkh42Z9DTLo)]
 
 ## Personal research
 
-**Active inference textbook** (Summer 2019-present): My primary research focus is the development of a textbook and other educational resources around active inference. I have worked on this book outside of work but since January 2023 I have been on sabbatical to focus on it exclusively. More detailed information is given on the [textbook](faif.md) page
+**Active inference textbook** (Summer 2019-present): My primary research focus is the development of a textbook and other educational resources around active inference. I have worked on this book outside of work but since January 2023 I have been on sabbatical to focus on it exclusively. More detailed information is given on the [textbook](faif.md) page.
 
 **Animal learning-based AI** (December 2021-present): In collaboration with [Roy Clymer](https://matheta.com/) we are writing a paper to showcase his work on an AI model inspired by animal learning. The model is based on synaptic connections but is entirely different in construction with feed-forward neural networks; superficially the model has some similarities with spiking neural networks. It includes an agent-environment loop and is capable of fairly complex behavioral chaining and learning in continuous time without any explicit calculations of gradients. More information and proof of concept results (using a Roomba) can be found on Roy's website linked above and in [this YouTube video](https://youtu.be/9IE-STHKxew).
 
@@ -20,7 +20,7 @@ In Winter 2020 I gave two talks at the [Deep Learning Meetup](https://www.meetup
 
 At KUNGFU.AI I have served as lead on a project to develop breast-cancer risk prediction software. The project involved developing a deep learning model using over 30 terrabytes of mammography data and temporal patient outcome data from hosptials around the world. The goal of the model was to provide calibrated risk scores with a 5-year predictive risk window that radiologists could use to provide more informed recommendations for their patients. This project required the application of federated learning to datasets stored on different cloud servers that could interact through VPC peering. 
 
-At Hypergiant served as lead on a project to develop an agent-based logistics simulator. The user could then change the initial conditions of the simulator to produce different outcome data. This data could then be used for forecasting to see how various business metrics would be expected to change as a result of changing the simulation. This project served as a test-bed for asking "what-if" questions useful in business analytics.
+At Hypergiant I served as lead on a project to develop an agent-based logistics simulator. The simulation was designed such that the user could change the initial conditions of the simulator to produce different outcome data. This data could then be used for forecasting to see how various business metrics would be expected to change as a result of changing the parameters of the simulation. This project served as a test-bed for asking "what-if" questions useful in business analytics.
 
 ## Postdoctoral research
 
@@ -51,4 +51,4 @@ Other papers from my time in the Raab-Graham Lab
 * Raab-Graham KF, Workman ER, **Namjoshi S**, Niere F. Pushing the threshold: How NMDAR antagonists induce homeostasis through protein synthesis to remedy depression. *Brain Res.* 2016. 1647:94-104. doi: 10.1016/j.brainres.2016.04.020. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27125595/)]
 * Wolfe SA, Workman ER, Heaney CF, Niere F, **Namjoshi S**, Cacheaux LP, Farris SP, Drew MR, Zemelman BV, Harris RA, Raab-Graham KF. FMRP regulates an ethanol-dependent shift in GABABR function and expression with rapid antidepressant properties. *Nat Commun*. 2016. 7:12867. doi: 10.1038/ncomms12867. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27666021/)]
 
-I was worked briefly in Scott Steven's Lab where I worked on functional analysis of protein domains of proteins in the spliceosome core. The spliceosome is the primary protein complex in the cell which carries out RNA processing. The work in this lab was purely in the realm of molecular biology.
+I also worked in Dr. Scott Stevens' Lab where I performed functional analysis of proteins in the spliceosome, the primary protein complex in the cell which carries out RNA processing.
