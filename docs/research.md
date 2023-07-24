@@ -33,7 +33,7 @@ After my graduate work I wished to refine my knowledge in computational neurosci
 
 ## Graduate research (highlights)
 
-My graduate research was performed in [Kimberly Raab-Graham's lab](https://raabgrahamlab.com/) where I worked on a mix of molecular biology and bioinformatics applied to proteomics and transcriptomics. My early work focused on functional and network analysis of proteins affected by excitation or inhibition of the protein complex mTORC1 expressed in rat or mouse hippocampal neurons (via mass spectrometry). Many of these proteins controlled by mTORC1 expression are involved in memory process and dysregulated in neurodegenerative diseases. Main paper related to this project:
+My graduate research was performed in [Kimberly Raab-Graham's lab](https://raabgrahamlab.com/) where I worked on a mix of molecular biology and bioinformatics applied to proteomics and transcriptomics. My early work focused on functional and network analysis of proteins affected by excitation or inhibition of the protein complex mTORC1 expressed in rat or mouse hippocampal neurons (via mass spectrometry). Many of these proteins controlled by mTORC1 expression are involved in memory processes and dysregulated in neurodegenerative diseases. Main paper related to this project:
 
 * Niere F, **Namjoshi S**, Song E, Dilly GA, Schoenhard G, Zemelman BV, Mechref Y, Raab-Graham KF. Analysis of Proteins That Rapidly Change Upon Mechanistic/Mammalian Target of Rapamycin Complex 1 (mTORC1) Repression Identifies Parkinson Protein 7 (PARK7) as a Novel Protein Aberrantly Expressed in Tuberous Sclerosis Complex (TSC). *Mol Cell Proteomics.* 2016. 15(2):426-44. doi: 10.1074/mcp.M115.055079. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/26419955/)]
 
@@ -41,7 +41,7 @@ I have also worked with the RNA-binding protein fragile-X mental retardation pro
 
 * Heaney CF, **Namjoshi SV**, Uneri A, Bach EC, Weiner JL, Raab-Graham KF. Role of FMRP in rapid antidepressant effects and synapse regulation. *Mol Psychiatry*. 2021. 26(6):2350-2362. doi: 10.1038/s41380-020-00977-z. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/33432187/)]
 
-Additionally, I wrote a review which covers the general process of devising experiments to extracting and analyzing RNA populations to study local mRNA translation under different conditions.
+Additionally, I wrote a review which covers the general process of devising experiments for the purpose of extracting and analyzing RNA populations to study local mRNA translation under different experimental conditions.
 
 * **Namjoshi SV** and Raab-Graham KF. Screening the Molecular Framework Underlying Local Dendritic mRNA Translation.
 *Front Mol Neurosci.* 2017. doi: 10.3389/fnmol.2017.00045. eCollection 2017. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28286470/)]
@@ -51,4 +51,4 @@ Other papers from my time in the Raab-Graham Lab
 * Raab-Graham KF, Workman ER, **Namjoshi S**, Niere F. Pushing the threshold: How NMDAR antagonists induce homeostasis through protein synthesis to remedy depression. *Brain Res.* 2016. 1647:94-104. doi: 10.1016/j.brainres.2016.04.020. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27125595/)]
 * Wolfe SA, Workman ER, Heaney CF, Niere F, **Namjoshi S**, Cacheaux LP, Farris SP, Drew MR, Zemelman BV, Harris RA, Raab-Graham KF. FMRP regulates an ethanol-dependent shift in GABABR function and expression with rapid antidepressant properties. *Nat Commun*. 2016. 7:12867. doi: 10.1038/ncomms12867. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27666021/)]
 
-I also worked in [Dr. Scott Stevens' Lab](https://molecularbiosci.utexas.edu/directory/scott-w-stevens) focusing on yeast genetics. This lab provided my background in experimental molecular biology through yeast genetics. I performed functional analysis of proteins in the spliceosome, the primary protein complex in the cell which carries out RNA processing.
+I also worked in [Dr. Scott Stevens' Lab](https://molecularbiosci.utexas.edu/directory/scott-w-stevens) focusing on yeast genetics. This lab provided my background in experimental molecular biology. I performed functional analysis of proteins in the spliceosome, the primary protein complex in the cell which carries out RNA processing.
