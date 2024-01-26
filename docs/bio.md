@@ -6,8 +6,9 @@ Please visit my [LinkedIn](https://www.linkedin.com/in/snamjoshi/) page for more
 
 ## Experience (Industry)
 
+* **Jan 2024 - present** (Full-time): Machine learning engineer at VERSES.AI
 * **Jan 2023 - Jul 2023**: Sabbatical to write [Active Inference Textbook](faif.md)
-* **Jun 2021 - Present** (Full-time): Senior Machine Learning Engineer at KUNGFU.AI
+* **Jun 2021 - Dec 2023** (Full-time): Senior Machine Learning Engineer at KUNGFU.AI
 * **Jun 2020 - May 2021** (Full-time): Data Scientist at Hypergiant
 * **Apr 2020 - Jun 2020** (Contract): Data Scientist at HookBang
 * **Sep 2019 - Mar 2020** (Full-time): Data Scientist at Yonder (formally known as New Knowledge)

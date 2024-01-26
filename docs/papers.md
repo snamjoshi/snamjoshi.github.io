@@ -2,6 +2,12 @@
 title: Publications
 ---
 
+Clymer RE, **Namjoshi SV**. A computational model of behavioral adaptation to solve the credit assignment problem. 2023. arXiv:2311.18134v1 [q-bio.NC]. [[arXiv] https://arxiv.org/abs/2311.18134]
+
+**Namjoshi SV**, Green R, Sharma K, Si Z. Serverless Federated Learning with flwr-serverless. 2023. arXiv:2310.15329v1 [cs.LG]. [[arXiv](https://arxiv.org/abs/2310.15329)]
+
+Niere F, Uneri A, McArdle CJ, Deng Z, Egido-Betancourt HX, Cacheaux LP, **Namjoshi SV**, Taylor WC, Wang X, Barth SH, Reynoldson C, Penaranda J, Stierer MP, Heaney CF, Craft S, Keene CD, Ma T, Raab-Graham KF. Aberrant DJ-1 expression underlies L-type calcium channel hypoactivity in dendrites in tuberous sclerosis complex and Alzheimer's disease. *Proc Natl Acad Sci USA.* 2023. 120(45). doi: 10.1073/pnas.2301534120. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37903257/)]
+
 Lyu Q, **Namjoshi SV**, McTyre E, Topaloglu U, Barcus R, Chan MD, Cramer CK, Debinski W, Gurcan MN, Lesser GJ, Lin HK, Munden RF, Pasche BC, Sai KKS, Strowd RE, Tatter SB, Watabe K, Zhang W, Wang G, Whitlow CT. A transformer-based deep-learning approach for classifying brain metastases into primary organ sites using clinical whole-brain MRI images. *Patterns (N Y)*. 2022. 3(11):100613. doi: 10.1016/j.patter.2022.100613. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/36419451/)]
 
 Li T, Mehraein-Ghomi F, Forbes ME, **Namjoshi SV**, Ballard EA, Song Q, Chou PC, Wang X, Parker Kerrigan BC, Lang FF, Lesser G, Debinski W, Yang X, Zhang W. HSP90-CDC37 functions as a chaperone for the oncogenic FGFR3-TACC3 fusion. *Mol Ther*. 2022. 30(4):1610-1627. doi: 10.1016/j.ymthe.2022.02.009. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/28286470/)]

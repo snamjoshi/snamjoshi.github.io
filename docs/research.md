@@ -8,15 +8,21 @@ In Winter 2020 I gave two talks at the [Deep Learning Meetup](https://www.meetup
 * The History of AI Part I: Before the AI Winter (1822-1980) [[Link](https://www.youtube.com/watch?v=wgG5h6RTNmw)]
 * The History of AI Part II: Modern Developments in AI and Neuroscience (1980-Present) [[Link](https://www.youtube.com/watch?v=kkh42Z9DTLo)]
 
-## Personal research
+## Personal research projects
 
-**Active inference textbook** (Summer 2019-present): My primary research focus is the development of a textbook and other educational resources around the field of Active Inference. I have worked on this book outside of work but since January 2023 I have been on sabbatical to focus on it exclusively. More detailed information is given on the [textbook](faif.md) page.
+**Active inference textbooks** (Summer 2019-present): My primary research focus is the development of a textbook and other educational resources around the fields of Active Inference and Bayesian Mechanics. The book will be published by The MIT Press. I have primarily written this book outside of work but from January-July 2023 I was on sabbatical to focus on it exclusively. More detailed information is given on the [textbook](faif.md) page.
 
-**Animal learning-based AI** (December 2021-present): In collaboration with [Roy Clymer](https://matheta.com/) we are writing a paper to showcase his work on an AI model inspired by animal learning. The model is based on a model of the synapse but is entirely different in construction from feed-forward neural networks and does not learn through backpropogation; superficially the model has some similarities with spiking neural networks. It includes an agent-environment interaction loop and is capable of fairly complex behavioral chaining and learning in continuous time without any explicit calculations of gradients. More information and proof of concept results (using a Roomba) can be found on Roy's website linked above and in [this YouTube video](https://youtu.be/9IE-STHKxew).
+**Animal learning-based AI** (December 2021-present): In collaboration with [Roy Clymer](https://matheta.com/) we have written a paper showcasing his work on an AI model inspired by animal learning. The model is based on a model of the synapse but is entirely different in construction from feed-forward neural networks and does not learn through backpropogation; superficially, the model has some similarities with spiking neural networks. It includes an agent-environment interaction loop and is capable of fairly complex behavioral chaining and learning in continuous time without any explicit calculations of gradients. More information and proof of concept results (using a Roomba) can be found on Roy's website linked above and in [this YouTube video](https://youtu.be/9IE-STHKxew). 
 
-**Asynchronous federated learning** (December 2022-present): In collaboration with my co-worker ZZ Si. As part of my work at KUNGFU.AI we had to utilize federated learning in order to prevent the mixture of private patient data stored in different AWS cloud accounts. Federated learning as implemented by tools such as [Flwr](https://flower.dev/) require synchronous learning where the slowest dataset to train becomes the bottleneck for the other datasets. ZZ developed the idea and original implementation of an asynchronous federated learning architecture that we worked together into a Python package (not yet public). With our asynchronous federated learning setup it is possible to eliminate issues caused by bottlenecking datasets. 
+* Clymer RE, **Namjoshi SV**. A computational model of behavioral adaptation to solve the credit assignment problem. 2023. arXiv:2311.18134v1 [q-bio.NC]. [[arXiv] https://arxiv.org/abs/2311.18134]
+
+**Asynchronous federated learning**: In collaboration with my co-worker ZZ Si. As part of my work at KUNGFU.AI we had to utilize federated learning in order to prevent the mixture of private patient data stored in different AWS cloud accounts. Federated learning as implemented by tools such as [Flwr](https://flower.dev/) require synchronous learning where the slowest dataset to train becomes the bottleneck for the other datasets. ZZ developed the idea and original implementation of an asynchronous federated learning architecture that we worked together into a Python package [[Github](https://github.com/kungfuai/flwr_serverless)]. With our asynchronous federated learning setup it is possible to eliminate issues caused by bottlenecking datasets.
+
+* **Namjoshi SV**, Green R, Sharma K, Si Z. Serverless Federated Learning with flwr-serverless. 2023. arXiv:2310.15329v1 [cs.LG]. [[arXiv](https://arxiv.org/abs/2310.15329)]
 
 ## Industry research (highlights)
+
+In December 2023, I joined VERSES.AI as a machine learning engineer.
 
 At KUNGFU.AI I have served as lead on a project to develop breast-cancer risk prediction software. The project involved developing a deep learning model using over 30 terrabytes of mammography data and temporal patient outcome data from hospitals around the world. The goal of the model was to provide calibrated risk scores with a 5-year predictive risk window that radiologists could use to provide more informed recommendations for their patients. This project required the application of federated learning to datasets stored on different cloud servers that could interact through VPC peering. 
 
@@ -48,6 +54,7 @@ Additionally, I wrote a review which covers the general process of devising expe
 
 Other papers from my time in the Raab-Graham Lab
 
+* Niere F, Uneri A, McArdle CJ, Deng Z, Egido-Betancourt HX, Cacheaux LP, **Namjoshi SV**, Taylor WC, Wang X, Barth SH, Reynoldson C, Penaranda J, Stierer MP, Heaney CF, Craft S, Keene CD, Ma T, Raab-Graham KF. Aberrant DJ-1 expression underlies L-type calcium channel hypoactivity in dendrites in tuberous sclerosis complex and Alzheimer's disease. *Proc Natl Acad Sci USA.* 2023. 120(45). doi: 10.1073/pnas.2301534120. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/37903257/)]
 * Raab-Graham KF, Workman ER, **Namjoshi S**, Niere F. Pushing the threshold: How NMDAR antagonists induce homeostasis through protein synthesis to remedy depression. *Brain Res.* 2016. 1647:94-104. doi: 10.1016/j.brainres.2016.04.020. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27125595/)]
 * Wolfe SA, Workman ER, Heaney CF, Niere F, **Namjoshi S**, Cacheaux LP, Farris SP, Drew MR, Zemelman BV, Harris RA, Raab-Graham KF. FMRP regulates an ethanol-dependent shift in GABABR function and expression with rapid antidepressant properties. *Nat Commun*. 2016. 7:12867. doi: 10.1038/ncomms12867. [[PubMed](https://pubmed.ncbi.nlm.nih.gov/27666021/)]
 
