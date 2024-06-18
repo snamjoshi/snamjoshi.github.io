@@ -6,7 +6,7 @@ title: Research and Talks
 
 * Education, Expectation-Maximisation, Evolution (Active Inference Insights Episode 18) [[Link](https://www.youtube.com/watch?v=sAwPXw-WNg4)] [March 2024]
 * How Active Inference is Bridging Neuroscience and AI (Hidden Layers Episode 10) [[Link](https://youtu.be/0EsZkTzux-I?si=DWjaLGuJt3WMS0mB)] [February 2024]
-* Machine Learning Street Talk Podcast (Patreon Access Only) [[Link](https://www.patreon.com/posts/dr-sanjeev-97242527?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share)]
+* Machine Learning Street Talk Podcast (Patreon Access Only) [[Link](https://www.patreon.com/posts/dr-sanjeev-97242527?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share)] [January 2024]
 * Engineering Explained: Bayesian mechanics [[Link](https://youtu.be/3VpptCcInjU?si=qoxCAd89_yvyulIh)] [September 2023]
 * Developing Next-Gen Active Inference Tools: Broadening Accessibility, Educational Resources, and the Software Ecosystem (3rd Annual Active Inference Symposium) [[Link](https://youtu.be/Y5ychDWJ-Ig?si=8ckKM2TOLr2rCIOs&t=9)]
 
