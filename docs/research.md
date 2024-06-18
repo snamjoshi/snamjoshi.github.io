@@ -2,7 +2,14 @@
 title: Research and Talks
 ---
 
-## Talks
+## Talks and Podcasts
+
+* Education, Expectation-Maximisation, Evolution (Active Inference Insights Episode 18) [[Link](https://www.youtube.com/watch?v=sAwPXw-WNg4)] [March 2024]
+* How Active Inference is Bridging Neuroscience and AI (Hidden Layers Episode 10) [[Link](https://youtu.be/0EsZkTzux-I?si=DWjaLGuJt3WMS0mB)] [February 2024]
+* Machine Learning Street Talk Podcast (Patreon Access Only) [[Link](https://www.patreon.com/posts/dr-sanjeev-97242527?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_fan&utm_content=web_share)]
+* Engineering Explained: Bayesian mechanics [[Link](https://youtu.be/3VpptCcInjU?si=qoxCAd89_yvyulIh)] [September 2023]
+* Developing Next-Gen Active Inference Tools: Broadening Accessibility, Educational Resources, and the Software Ecosystem (3rd Annual Active Inference Symposium) [[Link](https://youtu.be/Y5ychDWJ-Ig?si=8ckKM2TOLr2rCIOs&t=9)]
+
 In Winter 2020 I gave two talks at the [Deep Learning Meetup](https://www.meetup.com/austin-deep-learning/) in Austin, TX on the history of AI. The aim of these talks was to weave together a unique historical perspective on AI that integrates developments in philosophy, mathematics, and neuroscience and the various paths toward AI as we think of it today. The recordings of these talks can be found below:
 
 * The History of AI Part I: Before the AI Winter (1822-1980) [[Link](https://www.youtube.com/watch?v=wgG5h6RTNmw)]
